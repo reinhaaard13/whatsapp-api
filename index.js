@@ -4,6 +4,9 @@ const qrcode = require("qrcode-terminal");
 
 const client = new Client({
 	authStrategy: new LocalAuth(),
+  puppeteer: {
+    headless: false,
+  }
 });
 
 // Express server
@@ -26,7 +29,7 @@ app.get("/", (req, res) => {
 	});
 });
 
-app.post("/login", (req, res) => {
+app.post("/getotp", (req, res) => {
 	const otp = Math.floor(Math.random() * 9999).toString().padStart(4, "0");
 
   console.log(req.body);
@@ -85,7 +88,7 @@ client.on("ready", () => {
 });
 
 client.on("message", (message) => {
-	console.log(message);
+	message.reply("Terima kasih telah menghubungi Cukuy. Akun ini hanya digunakan untuk OTP, pesan kamu tidak akan dibalas.\n\n#CukurDiCukuy")
 });
 
 client.initialize();
