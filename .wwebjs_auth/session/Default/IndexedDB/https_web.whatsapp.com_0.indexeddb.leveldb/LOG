@@ -1,3 +1,16 @@
-2022/06/07-18:21:44.509 524 Reusing MANIFEST D:\Rei Codes\whatsapp-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/07-18:21:44.509 524 Recovering log #15
-2022/06/07-18:21:44.953 524 Reusing old log D:\Rei Codes\whatsapp-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
+2022/06/20-22:12:36.749 2968 Reusing MANIFEST D:\Rei Codes\whatsapp-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/20-22:12:36.806 2968 Recovering log #102
+2022/06/20-22:12:36.895 2968 Reusing old log D:\Rei Codes\whatsapp-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000102.log 
+2022/06/20-22:22:14.564 28c4 Level-0 table #109: started
+2022/06/20-22:22:14.602 28c4 Level-0 table #109: 1185754 bytes OK
+2022/06/20-22:22:14.604 28c4 Delete type=0 #102
+2022/06/20-22:24:38.105 3060 Compacting 1@1 + 3@2 files
+2022/06/20-22:24:38.274 3060 Generated table #110@1: 40830 keys, 2249867 bytes
+2022/06/20-22:24:38.484 3060 Generated table #111@1: 55774 keys, 2252406 bytes
+2022/06/20-22:24:38.621 3060 Generated table #112@1: 32885 keys, 1005532 bytes
+2022/06/20-22:24:38.621 3060 Compacted 1@1 + 3@2 files => 5507805 bytes
+2022/06/20-22:24:38.622 3060 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/06/20-22:24:38.622 3060 Delete type=2 #104
+2022/06/20-22:24:38.622 3060 Delete type=2 #105
+2022/06/20-22:24:38.622 3060 Delete type=2 #106
+2022/06/20-22:24:38.622 3060 Delete type=2 #109

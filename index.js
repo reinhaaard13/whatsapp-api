@@ -4,9 +4,6 @@ const qrcode = require("qrcode-terminal");
 
 const client = new Client({
 	authStrategy: new LocalAuth(),
-  puppeteer: {
-    headless: false,
-  }
 });
 
 // Express server

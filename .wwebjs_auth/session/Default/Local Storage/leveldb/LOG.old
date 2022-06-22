@@ -1,3 +1,9 @@
-2022/06/07-16:41:44.719 43b0 Reusing MANIFEST D:\Rei Codes\whatsapp-api\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2022/06/07-16:41:44.720 43b0 Recovering log #3
-2022/06/07-16:41:44.720 43b0 Reusing old log D:\Rei Codes\whatsapp-api\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2022/06/14-13:38:49.518 1e3c Reusing MANIFEST D:\Rei Codes\whatsapp-api\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2022/06/14-13:38:49.639 1e3c Recovering log #17
+2022/06/14-13:38:49.639 1e3c Reusing old log D:\Rei Codes\whatsapp-api\.wwebjs_auth\session\Default\Local Storage\leveldb/000017.log 
+2022/06/14-16:16:54.620 1dd0 Level-0 table #22: started
+2022/06/14-16:16:54.625 1dd0 Level-0 table #22: 8846 bytes OK
+2022/06/14-16:16:54.692 1dd0 Delete type=0 #17
+2022/06/14-22:39:54.625 1dd0 Level-0 table #24: started
+2022/06/14-22:39:54.631 1dd0 Level-0 table #24: 8633 bytes OK
+2022/06/14-22:39:54.632 1dd0 Delete type=0 #21
